@@ -10,7 +10,7 @@ const FoodItem = ({ id, name, price, description, image }) => {
   return (
     <div className="food-item">
       <div className="food-item-img-container">
-        {console.log(image)}
+        {console.log(image, image.startsWith("/assets"))}
         {image.startsWith("/src") || image.startsWith("/assets") ? (
           <img src={image} alt="" className="food-item-image" />
         ) : (
