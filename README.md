@@ -35,7 +35,7 @@ This repository hosts the source code for fOODIE, a dynamic food ordering websit
 ![Products](https://i.ibb.co/JnNQPyQ/food-products.png)
 - Products Section
 
-![Cart](https://i.ibb.co/t2LrQ8p/food-cart.png)
+![Cart](https://github.com/user-attachments/assets/15e6f254-d476-49c9-b855-a209931ee5a3)
 - Cart Page
 
 ![Login](https://github.com/user-attachments/assets/8d807033-17a8-4e3b-b9b6-8103caa9cec9))
