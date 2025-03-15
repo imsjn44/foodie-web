@@ -1,6 +1,6 @@
 # fOODIE - Food Ordering Website
 
-This repository hosts the source code for TOMATO, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
+This repository hosts the source code for fOODIE, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
 
 ## Demo
 
@@ -29,7 +29,7 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 
 ## Screenshots
 
-![Hero](https://i.ibb.co/59cwY75/food-hero.png)
+![Hero]()
 - Hero Section
 
 ![Products](https://i.ibb.co/JnNQPyQ/food-products.png)
