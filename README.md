@@ -4,8 +4,8 @@ This repository hosts the source code for fOODIE, a dynamic food ordering websit
 
 ## Demo
 
-- User Panel: [https://food-delivery-frontend-s2l9.onrender.com/](https://food-delivery-frontend-s2l9.onrender.com/)
-- Admin Panel: [https://food-delivery-admin-wrme.onrender.com/](https://food-delivery-admin-wrme.onrender.com/)
+- Frontend:https://foodie-web-frontend.onrender.com
+- Backend:https://foodie-web-backend.onrender.com
 
 ## Features
 
