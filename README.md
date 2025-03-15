@@ -6,6 +6,7 @@ This repository hosts the source code for fOODIE, a dynamic food ordering websit
 
 - Frontend:https://foodie-web-frontend.onrender.com
 - Backend:https://foodie-web-backend.onrender.com
+- Admin:https://foodie-web-admin.onrender.com
 
 ## Features
 
