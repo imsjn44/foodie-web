@@ -46,7 +46,7 @@ This repository hosts the source code for fOODIE, a dynamic food ordering websit
 Clone the project
 
 ```bash
-    git clone https://github.com/Mshande/foodie-web
+    git clone https://github.com/imsjn44/foodie-web
 ```
 Go to the project directory
 
