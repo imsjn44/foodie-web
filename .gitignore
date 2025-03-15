@@ -1,0 +1,4 @@
+# Node.js dependencies
+admin/node_modules/
+frontend/node_modules/
+admin/dist
