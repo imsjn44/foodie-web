@@ -1,6 +1,6 @@
-# TOMATO - Food Ordering Website
+# fOODIE - Food Ordering Website
 
-This repository hosts the source code for TOMATO, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
+This repository hosts the source code for fOODIE, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
 
 ## Demo
 
@@ -29,16 +29,16 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 
 ## Screenshots
 
-![Hero](https://i.ibb.co/59cwY75/food-hero.png)
+![Hero](https://github.com/user-attachments/assets/d9d69354-bfaa-4508-a278-27e9f6289318)
 - Hero Section
 
-![Products](https://i.ibb.co/JnNQPyQ/food-products.png)
+![Products](https://github.com/user-attachments/assets/bdc6f7ba-3d1c-4f5d-8e09-b573230cfb6d)
 - Products Section
 
-![Cart](https://i.ibb.co/t2LrQ8p/food-cart.png)
+![Cart](https://github.com/user-attachments/assets/15e6f254-d476-49c9-b855-a209931ee5a3)
 - Cart Page
 
-![Login](https://i.ibb.co/s6PgwkZ/food-login.png)
+![Login](https://github.com/user-attachments/assets/8d807033-17a8-4e3b-b9b6-8103caa9cec9))
 - Login Popup
 
 ## Run Locally
@@ -46,12 +46,12 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 Clone the project
 
 ```bash
-    git clone https://github.com/Mshandev/Food-Delivery
+    git clone https://github.com/imsjn44/foodie-web
 ```
 Go to the project directory
 
 ```bash
-    cd Food-Delivery
+    cd foodie-web
 ```
 Install dependencies (frontend)
 
@@ -127,4 +127,4 @@ Just raise an issue, and we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/muhammad-shan-full-stack-developer/)
+If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/sujan-timalsina-b01127308/)
